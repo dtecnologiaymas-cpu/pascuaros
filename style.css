@@ -57,6 +57,14 @@ body{
     border-radius:12px;
 }
 
+.slider{
+    position:relative;
+    width:100%;
+    max-width:380px;
+    margin:auto;
+}
+
+
 @keyframes zoom{
     0%{
         opacity:0;
