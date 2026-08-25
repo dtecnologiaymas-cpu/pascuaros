@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dtecnologiaymas-cpu.github.io/pascuaros/sitemap.xml
